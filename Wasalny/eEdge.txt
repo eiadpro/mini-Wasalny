@@ -1,0 +1,6 @@
+e eiad 2
+e islam 4
+eiad islam 10
+eiad e 2
+islam eiad 10
+islam e 4

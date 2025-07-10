@@ -1,0 +1,67 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(138,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(142,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(164,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(165,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(168,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(170,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(172,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(174,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(176,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(177,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(179,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(182,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(183,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(186,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(187,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(190,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(191,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(194,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(195,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(198,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(199,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(202,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(203,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(206,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(207,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(210,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(211,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(213,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(216,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(219,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(222,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(225,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(228,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(230,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(231,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(286,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(448,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(451,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(454,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(455,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(458,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(459,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(462,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(463,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(467,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(468,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(486,68): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(486,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(539,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(540,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(550,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(551,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(569,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(570,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(587,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Wasalny\Wasalny\Source.cpp(588,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  Wasalny.vcxproj -> C:\Users\User\source\repos\Wasalny\Debug\Wasalny.exe
